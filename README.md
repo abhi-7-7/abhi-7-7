@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aarsh%20Bhatnagar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Dev%20%7C%20ML%20Engineer%20%7C%20AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+that+ships+to+production;Full-Stack+%2B+LLM+%2B+Agentic+AI;2nd+Year+CS+%26+AI+%40+University;Open+to+Collaborate!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+that+ships+to+production;Full-Stack+%2B+LLM+%2B+Agentic+AI;Open+to+Collaborate!)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/aarsh-abhi7">
