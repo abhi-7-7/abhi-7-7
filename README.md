@@ -145,19 +145,6 @@ aarsh = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi-7-7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-7-7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-7-7&theme=tokyonight&hide_border=true" width="49%"/>
-</div>
-
----
-
 ## 🚀 What I'm Focused On (2026)
 
 | Area | What I'm Learning |
