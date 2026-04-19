@@ -29,6 +29,18 @@ data → tokenize → train → evaluate → deploy → integrate into products
 
 ---
 
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| **[GenAI – ChurnGuard](https://github.com/abhi-7-7/GenAi)** | Telecom churn prediction with ML + agentic AI workflow, RAG pipeline, and Streamlit dashboard | Python, LangGraph, RAG, Streamlit | [Repo](https://github.com/abhi-7-7/GenAi) · [Live](https://genai2401010007.streamlit.app/) |
+| **[InterviewIQ](https://github.com/abhi-7-7/Interview_AI)** | AI-powered mock interview platform with voice interviews, resume analysis, and Razorpay payments | React, Node.js, OpenAI, JWT | [Repo](https://github.com/abhi-7-7/Interview_AI) · [Live](https://interview-ai-tawny.vercel.app/) |
+| **[Exam Notes Generator](https://github.com/abhi-7-7/Exam_Notes_Generator)** | Full-stack AI app that auto-generates structured exam notes from documents | React, Node.js, Express, OpenAI | [Repo](https://github.com/abhi-7-7/Exam_Notes_Generator) |
+| **[System Design Capstone](https://github.com/abhi-7-7/System_Design_Capstone)** | Full-stack TypeScript app with JWT auth, class-based React, Prisma + Neon PostgreSQL | TypeScript, React, Prisma, Vercel | [Repo](https://github.com/abhi-7-7/System_Design_Capstone) · [Live](https://system-design-capstone.vercel.app/) |
+| **[Audio Emotion Classifier](https://github.com/abhi-7-7/AI-Project)** | Modular Python pipeline for audio emotion classification using signal processing + ML | Python, librosa, scikit-learn | [Repo](https://github.com/abhi-7-7/AI-Project) |
+
 ### 🚀 What I'm focused on (2026)
 
 **🤖 Machine Learning & LLMs**
