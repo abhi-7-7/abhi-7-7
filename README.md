@@ -38,30 +38,30 @@ aarsh = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 GenAI – ChurnGuard</h3>
-      <p align="center">
-        Telecom churn prediction with <strong>ML + Agentic AI</strong>, RAG pipeline, LangGraph workflows, and a live Streamlit dashboard.
-      </p>
+      <h3 align="center">🤖 TelecomIQ — ML + Agentic AI</h3>
+      <p align="center">Churn prediction pipeline on <strong>IBM Telco dataset (7,043 rows)</strong>. XGBoost with scale_pos_weight=2.77 for class imbalance, evaluated on F1 (not accuracy). Predictions routed through <strong>LangGraph agent → FAISS RAG → Groq LLaMA 3</strong> explanation on Streamlit. 1 GitHub ★ &amp; 1 fork.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-        <img src="https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FAISS-412991?style=flat-square&logo=meta&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Groq-00A67E?style=flat-square&logo=groq&logoColor=white"/>
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://github.com/abhi-7-7/GenAi"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/></a>
+        <a href="https://github.com/abhi-7-7/TelecomIQ"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/></a>
         <a href="https://genai2401010007.streamlit.app/"><img src="https://img.shields.io/badge/Live-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🎤 InterviewIQ</h3>
-      <p align="center">
-        AI mock interview platform with <strong>voice interviews</strong>, resume analysis, real-time feedback, and Razorpay payment integration.
-      </p>
+      <h3 align="center">🎤 InterviewIQ — AI Mock Interview SaaS</h3>
+      <p align="center">3-step interview flow: resume PDF parsing (pdf.js, capped 3,000 chars) → voice-to-text via Web Speech API → real-time scoring (confidence, communication, correctness) via <strong>OpenRouter LLM</strong>. Credit-based billing with <strong>Razorpay atomic deduction</strong> before LLM call. 9 Vercel production releases.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenRouter-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white"/>
       </p>
       <p align="center">
         <a href="https://github.com/abhi-7-7/Interview_AI"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/></a>
@@ -71,26 +71,12 @@ aarsh = {
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📝 Exam Notes Generator</h3>
-      <p align="center">
-        Full-stack AI app that auto-generates <strong>structured exam notes</strong> from documents using OpenAI.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-      </p>
-      <p align="center">
-        <a href="https://github.com/abhi-7-7/Exam_Notes_Generator"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏗️ System Design Capstone</h3>
-      <p align="center">
-        Full-stack TypeScript app with <strong>JWT auth</strong>, class-based React, Prisma ORM, Neon PostgreSQL, deployed on Vercel.
-      </p>
+      <h3 align="center">📦 SmartFlow — Task Management System</h3>
+      <p align="center">4-tier TypeScript monorepo with <strong>Strategy pattern</strong> for pluggable Kanban sort (DeadlineBasedStrategy, WorkloadBasedStrategy) and <strong>Observer pattern</strong> via TaskEventManager decoupling task mutations from UI. Prisma ORM on NeonDB, JWT + Google OAuth, Zod validation. 23 Vercel deployments.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
@@ -99,9 +85,23 @@ aarsh = {
         <a href="https://system-design-capstone.vercel.app/"><img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel"/></a>
       </p>
     </td>
+    <td width="50%">
+      <h3 align="center">💬 Real-Time Chat Application</h3>
+      <p align="center">Socket.io messaging with <strong>unread tracking, typing indicators, and live presence</strong>. Integrated OpenAI GPT, Google Gemini, and DeepSeek APIs with persistent AI response storage. JWT auth with protected routes, split-stack deploy on Vercel + Render.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/abhi-7-7/ChatterBox"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/></a>
+        <a href="https://chatter-box-azure-eta.vercel.app/"><img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel"/></a>
+      </p>
+    </td>
   </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack
